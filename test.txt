@@ -1,1 +1,3 @@
 Hello , welcome to github practice for some basic commands!!
+
+changes made to understand .git..
